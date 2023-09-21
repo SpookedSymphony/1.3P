@@ -1,0 +1,11 @@
+p {
+    color: teal;
+    padding: 5px;
+}
+a {
+    color: lightgreen;
+    font-size: 20px;
+}
+a:hover {
+    color: hotpink;
+}
